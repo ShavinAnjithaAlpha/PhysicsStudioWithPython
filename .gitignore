@@ -1,0 +1,9 @@
+# UNWANTED FOLDERS
+.idea/
+__pycache__/
+
+# PYTHON CACHED FILES
+*.*cpytohn*
+
+# LOG FILES
+*.log
